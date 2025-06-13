@@ -1,0 +1,17 @@
+C:\Users\braju\SimuladorAtaqueDoS\bin\Debug\net8.0\SimuladorAtaqueDoS.exe
+C:\Users\braju\SimuladorAtaqueDoS\bin\Debug\net8.0\SimuladorAtaqueDoS.deps.json
+C:\Users\braju\SimuladorAtaqueDoS\bin\Debug\net8.0\SimuladorAtaqueDoS.runtimeconfig.json
+C:\Users\braju\SimuladorAtaqueDoS\bin\Debug\net8.0\SimuladorAtaqueDoS.dll
+C:\Users\braju\SimuladorAtaqueDoS\bin\Debug\net8.0\SimuladorAtaqueDoS.pdb
+C:\Users\braju\SimuladorAtaqueDoS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\braju\SimuladorAtaqueDoS\obj\Debug\net8.0\SimuladorAtaqueDoS.csproj.AssemblyReference.cache
+C:\Users\braju\SimuladorAtaqueDoS\obj\Debug\net8.0\SimuladorAtaqueDoS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braju\SimuladorAtaqueDoS\obj\Debug\net8.0\SimuladorAtaqueDoS.AssemblyInfoInputs.cache
+C:\Users\braju\SimuladorAtaqueDoS\obj\Debug\net8.0\SimuladorAtaqueDoS.AssemblyInfo.cs
+C:\Users\braju\SimuladorAtaqueDoS\obj\Debug\net8.0\SimuladorAtaqueDoS.csproj.CoreCompileInputs.cache
+C:\Users\braju\SimuladorAtaqueDoS\obj\Debug\net8.0\Simulado.BFEC3DB4.Up2Date
+C:\Users\braju\SimuladorAtaqueDoS\obj\Debug\net8.0\SimuladorAtaqueDoS.dll
+C:\Users\braju\SimuladorAtaqueDoS\obj\Debug\net8.0\refint\SimuladorAtaqueDoS.dll
+C:\Users\braju\SimuladorAtaqueDoS\obj\Debug\net8.0\SimuladorAtaqueDoS.pdb
+C:\Users\braju\SimuladorAtaqueDoS\obj\Debug\net8.0\SimuladorAtaqueDoS.genruntimeconfig.cache
+C:\Users\braju\SimuladorAtaqueDoS\obj\Debug\net8.0\ref\SimuladorAtaqueDoS.dll
